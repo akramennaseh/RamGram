@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 
-import './globale.css';
+import './globals.css';
 import { Home } from './_route/pages';
 import SigninForm from './_auth/forms/SigninForm';
 import SignupForm from './_auth/forms/SignupForm';
